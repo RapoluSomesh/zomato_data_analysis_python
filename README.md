@@ -1,4 +1,4 @@
-# Zomato Data Analysis Using Python
+# ZOMATO DATA ANALYSIS USING PYTHON
 
 **Dataset Link:** [zomato_dataset](https://github.com/RapoluSomesh/zomato_data_analysis_python/blob/main/Zomato_Dataset.csv)
 
