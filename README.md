@@ -1,6 +1,10 @@
 # Zomato Data Analysis Using Python
 
-- **Dataset Link:** [zomato_dataset](https://github.com/RapoluSomesh/zomato_data_analysis_python/blob/main/Zomato_Dataset.csv)
+**Dataset Link:** [zomato_dataset](https://github.com/RapoluSomesh/zomato_data_analysis_python/blob/main/Zomato_Dataset.csv)
+
+**jupyter File link:** [zomato_data_analysis](https://github.com/RapoluSomesh/zomato_data_analysis_python/blob/main/zomato_data_analysis.ipynb)
+
+**Project Explanation PDF:** [ZOMATO DATA ANALYSIS USING PYTHON](https://github.com/RapoluSomesh/zomato_data_analysis_python/blob/main/ZOMATO%20DATA%20ANALYSIS%20USING%20PYTHON.pdf)
 
 # Explanation
 ![Screenshot 2024-12-31 185713](https://github.com/user-attachments/assets/98c4b1f6-55ca-4e07-bb99-6224c0c23410)
